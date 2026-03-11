@@ -94,7 +94,7 @@ CREATE OR REPLACE AGENT CORTEX.TESTING.ETL_AGENT
     "tool_resources": {
       "run_etl_pipeline": {
         "type": "procedure",
-        "identifier": "CORTEX.TESTING.RUN_ETL_PIPELINE()",
+        "identifier": "CORTEX.TESTING.RUN_ETL_PIPELINE",
         "execution_environment": {
           "type": "warehouse",
           "name": "COMPUTE_WH"
