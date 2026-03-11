@@ -1,0 +1,1 @@
+# snowflake-tables-cortex
